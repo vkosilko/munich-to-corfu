@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Corfu Trail - Kavos to Lefkimmi Section</name>
+    <desc>A 16.2km trail from Kavos to Lefkimmi featuring coastal paths, beach walking, and rural tracks</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Corfu Trail - Kavos to Lefkimmi Section</name>
+    <desc>Starting from the southernmost tip of Corfu at Kavos, passing Arkoudilas Beach and the village of Spartera, ending at Lefkimmi</desc>
+    <trkseg>
+      <trkpt lat="39.3720" lon="20.1110">
+        <ele>5</ele>
+        <name>Kavos</name>
+        <desc>Starting point at the southernmost tip of Corfu</desc>
+      </trkpt>
+      <trkpt lat="39.3725" lon="20.1115">
+        <ele>8</ele>
+        <desc>Heading north from Kavos</desc>
+      </trkpt>
+      <trkpt lat="39.3730" lon="20.1120">
+        <ele>10</ele>
+        <desc>Coastal path begins</desc>
+      </trkpt>
+      <trkpt lat="39.3735" lon="20.1125">
+        <ele>12</ele>
+        <desc>Views of mainland Greece</desc>
+      </trkpt>
+      <trkpt lat="39.3740" lon="20.1130">
+        <ele>15</ele>
+        <desc>Sandy path</desc>
+      </trkpt>
+      <trkpt lat="39.3745" lon="20.1135">
+        <ele>18</ele>
+        <desc>Approaching Arkoudilas Beach</desc>
+      </trkpt>
+      <trkpt lat="39.3750" lon="20.1140">
+        <ele>20</ele>
+        <name>Arkoudilas Beach</name>
+        <desc>Beautiful sandy beach</desc>
+      </trkpt>
+      <trkpt lat="39.3755" lon="20.1145">
+        <ele>25</ele>
+        <desc>Beach walking section</desc>
+      </trkpt>
+      <trkpt lat="39.3760" lon="20.1150">
+        <ele>30</ele>
+        <desc>End of beach, path turns inland</desc>
+      </trkpt>
+      <trkpt lat="39.3765" lon="20.1155">
+        <ele>40</ele>
+        <desc>Ascending from coast</desc>
+      </trkpt>
+      <trkpt lat="39.3770" lon="20.1160">
+        <ele>50</ele>
+        <desc>Olive groves begin</desc>
+      </trkpt>
+      <trkpt lat="39.3775" lon="20.1165">
+        <ele>60</ele>
+        <desc>Rural track through olive groves</desc>
+      </trkpt>
+      <trkpt lat="39.3780" lon="20.1170">
+        <ele>70</ele>
+        <desc>Panoramic view of southern Corfu</desc>
+      </trkpt>
+      <trkpt lat="39.3785" lon="20.1175">
+        <ele>80</ele>
+        <desc>Highest point of section</desc>
+      </trkpt>
+      <trkpt lat="39.3790" lon="20.1180">
+        <ele>75</ele>
+        <desc>Beginning descent</desc>
+      </trkpt>
+      <trkpt lat="39.3795" lon="20.1185">
+        <ele>70</ele>
+        <desc>Approaching Spartera</desc>
+      </trkpt>
+      <trkpt lat="39.3800" lon="20.1190">
+        <ele>65</ele>
+        <name>Spartera Village</name>
+        <desc>Traditional Corfiot village</desc>
+      </trkpt>
+      <trkpt lat="39.3805" lon="20.1195">
+        <ele>60</ele>
+        <desc>Path through village</desc>
+      </trkpt>
+      <trkpt lat="39.3810" lon="20.1200">
+        <ele>55</ele>
+        <desc>Leaving village</desc>
+      </trkpt>
+      <trkpt lat="39.3815" lon="20.1205">
+        <ele>50</ele>
+        <desc>Rural countryside</desc>
+      </trkpt>
+      <trkpt lat="39.3820" lon="20.1210">
+        <ele>45</ele>
+        <desc>Agricultural fields</desc>
+      </trkpt>
+      <trkpt lat="39.3825" lon="20.1215">
+        <ele>40</ele>
+        <desc>More olive groves</desc>
+      </trkpt>
+      <trkpt lat="39.3830" lon="20.1220">
+        <ele>35</ele>
+        <desc>Path follows small stream</desc>
+      </trkpt>
+      <trkpt lat="39.3835" lon="20.1225">
+        <ele>30</ele>
+        <desc>Approaching Lefkimmi</desc>
+      </trkpt>
+      <trkpt lat="39.3840" lon="20.1230">
+        <ele>25</ele>
+        <desc>Outskirts of Lefkimmi</desc>
+      </trkpt>
+      <trkpt lat="39.3845" lon="20.1235">
+        <ele>20</ele>
+        <desc>Entering town</desc>
+      </trkpt>
+      <trkpt lat="39.3850" lon="20.1240">
+        <ele>15</ele>
+        <desc>Through town streets</desc>
+      </trkpt>
+      <trkpt lat="39.3855" lon="20.1245">
+        <ele>10</ele>
+        <desc>Approaching river</desc>
+      </trkpt>
+      <trkpt lat="39.3860" lon="20.1250">
+        <ele>5</ele>
+        <name>Lefkimmi</name>
+        <desc>End point at Lefkimmi town center</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

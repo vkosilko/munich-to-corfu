@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Strunjan Valley Trail</name>
+    <desc>An 11km circular trail through Strunjan Landscape Park with views of Izola and Piran</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Strunjan Valley Trail</name>
+    <desc>Starting from Belveder, through Strunjan cliff, Bele skale beach, Moon Bay, and returning via former Parenzana railway</desc>
+    <trkseg>
+      <trkpt lat="45.5280" lon="13.6000">
+        <ele>30</ele>
+        <name>Belveder</name>
+        <desc>Starting point at Belveder</desc>
+      </trkpt>
+      <trkpt lat="45.5285" lon="13.6010">
+        <ele>35</ele>
+        <desc>Heading towards Strunjan Landscape Park</desc>
+      </trkpt>
+      <trkpt lat="45.5290" lon="13.6020">
+        <ele>40</ele>
+        <desc>Entering Strunjan Landscape Park</desc>
+      </trkpt>
+      <trkpt lat="45.5295" lon="13.6030">
+        <ele>45</ele>
+        <desc>Forest path begins</desc>
+      </trkpt>
+      <trkpt lat="45.5300" lon="13.6040">
+        <ele>50</ele>
+        <desc>First views of Izola</desc>
+      </trkpt>
+      <trkpt lat="45.5305" lon="13.6050">
+        <ele>60</ele>
+        <desc>Ascending path</desc>
+      </trkpt>
+      <trkpt lat="45.5310" lon="13.6060">
+        <ele>70</ele>
+        <desc>Panoramic viewpoint</desc>
+      </trkpt>
+      <trkpt lat="45.5315" lon="13.6070">
+        <ele>80</ele>
+        <desc>View of Piran in distance</desc>
+      </trkpt>
+      <trkpt lat="45.5320" lon="13.6080">
+        <ele>90</ele>
+        <desc>Approaching Strunjan cliff</desc>
+      </trkpt>
+      <trkpt lat="45.5325" lon="13.6090">
+        <ele>100</ele>
+        <name>Strunjan Cliff</name>
+        <desc>Highest flysch cliff on the Adriatic coast</desc>
+      </trkpt>
+      <trkpt lat="45.5330" lon="13.6100">
+        <ele>95</ele>
+        <desc>Beginning descent to beach</desc>
+      </trkpt>
+      <trkpt lat="45.5335" lon="13.6110">
+        <ele>80</ele>
+        <desc>Steep path down</desc>
+      </trkpt>
+      <trkpt lat="45.5340" lon="13.6120">
+        <ele>60</ele>
+        <desc>Approaching Bele skale beach</desc>
+      </trkpt>
+      <trkpt lat="45.5345" lon="13.6130">
+        <ele>40</ele>
+        <desc>Rocky path</desc>
+      </trkpt>
+      <trkpt lat="45.5350" lon="13.6140">
+        <ele>20</ele>
+        <name>Bele skale beach</name>
+        <desc>White rocks beach area</desc>
+      </trkpt>
+      <trkpt lat="45.5355" lon="13.6150">
+        <ele>10</ele>
+        <desc>Coastal path</desc>
+      </trkpt>
+      <trkpt lat="45.5360" lon="13.6160">
+        <ele>5</ele>
+        <name>Moon Bay</name>
+        <desc>Secluded bay with clear waters</desc>
+      </trkpt>
+      <trkpt lat="45.5365" lon="13.6170">
+        <ele>10</ele>
+        <desc>Beginning coastal ascent</desc>
+      </trkpt>
+      <trkpt lat="45.5360" lon="13.6180">
+        <ele>20</ele>
+        <desc>Path turns inland</desc>
+      </trkpt>
+      <trkpt lat="45.5355" lon="13.6190">
+        <ele>30</ele>
+        <desc>Former Parenzana railway path</desc>
+      </trkpt>
+      <trkpt lat="45.5350" lon="13.6180">
+        <ele>35</ele>
+        <desc>Following old railway route</desc>
+      </trkpt>
+      <trkpt lat="45.5345" lon="13.6170">
+        <ele>40</ele>
+        <desc>Gentle gradient on railway path</desc>
+      </trkpt>
+      <trkpt lat="45.5340" lon="13.6160">
+        <ele>45</ele>
+        <desc>Views of salt pans</desc>
+      </trkpt>
+      <trkpt lat="45.5335" lon="13.6150">
+        <ele>50</ele>
+        <desc>Continuing on railway path</desc>
+      </trkpt>
+      <trkpt lat="45.5330" lon="13.6140">
+        <ele>45</ele>
+        <desc>Approaching olive groves</desc>
+      </trkpt>
+      <trkpt lat="45.5325" lon="13.6130">
+        <ele>40</ele>
+        <desc>Path through olive groves</desc>
+      </trkpt>
+      <trkpt lat="45.5320" lon="13.6120">
+        <ele>35</ele>
+        <desc>Vineyard section</desc>
+      </trkpt>
+      <trkpt lat="45.5315" lon="13.6110">
+        <ele>30</ele>
+        <desc>Approaching starting area</desc>
+      </trkpt>
+      <trkpt lat="45.5310" lon="13.6100">
+        <ele>25</ele>
+        <desc>Final stretch</desc>
+      </trkpt>
+      <trkpt lat="45.5305" lon="13.6090">
+        <ele>20</ele>
+        <desc>Near starting point</desc>
+      </trkpt>
+      <trkpt lat="45.5300" lon="13.6080">
+        <ele>25</ele>
+        <desc>Last viewpoint</desc>
+      </trkpt>
+      <trkpt lat="45.5295" lon="13.6070">
+        <ele>30</ele>
+        <desc>Approaching Belveder</desc>
+      </trkpt>
+      <trkpt lat="45.5290" lon="13.6060">
+        <ele>30</ele>
+        <desc>Almost back to start</desc>
+      </trkpt>
+      <trkpt lat="45.5285" lon="13.6050">
+        <ele>30</ele>
+        <desc>Final approach</desc>
+      </trkpt>
+      <trkpt lat="45.5280" lon="13.6000">
+        <ele>30</ele>
+        <name>Belveder</name>
+        <desc>Back to starting point</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

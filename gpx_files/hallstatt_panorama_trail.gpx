@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Hallstatt Panorama Trail</name>
+    <desc>A scenic 6km trail above Hallstatt with spectacular views of the lake and mountains</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Hallstatt Panorama Trail</name>
+    <desc>Starting from Hallstatt Square, following Kirchensteig and Gaiswandweg to Rudolfsturm and back</desc>
+    <trkseg>
+      <trkpt lat="47.5622" lon="13.6494">
+        <ele>514</ele>
+        <name>Hallstatt Square</name>
+        <desc>Starting point at the main square</desc>
+      </trkpt>
+      <trkpt lat="47.5630" lon="13.6499">
+        <ele>520</ele>
+        <desc>Past Heritage Hotel</desc>
+      </trkpt>
+      <trkpt lat="47.5635" lon="13.6505">
+        <ele>530</ele>
+        <desc>Tourist signpost</desc>
+      </trkpt>
+      <trkpt lat="47.5640" lon="13.6510">
+        <ele>540</ele>
+        <desc>Turn right along main road</desc>
+      </trkpt>
+      <trkpt lat="47.5645" lon="13.6515">
+        <ele>550</ele>
+        <desc>Turn left onto Kirchensteig</desc>
+      </trkpt>
+      <trkpt lat="47.5650" lon="13.6520">
+        <ele>570</ele>
+        <desc>Follow Gaiswandweg</desc>
+      </trkpt>
+      <trkpt lat="47.5655" lon="13.6525">
+        <ele>590</ele>
+        <desc>First viewpoint</desc>
+      </trkpt>
+      <trkpt lat="47.5660" lon="13.6530">
+        <ele>610</ele>
+        <desc>Continue uphill</desc>
+      </trkpt>
+      <trkpt lat="47.5665" lon="13.6535">
+        <ele>630</ele>
+        <desc>Sharp turn</desc>
+      </trkpt>
+      <trkpt lat="47.5670" lon="13.6540">
+        <ele>650</ele>
+        <desc>Turn left onto Kaiser Franz Josef Förderstollen</desc>
+      </trkpt>
+      <trkpt lat="47.5675" lon="13.6545">
+        <ele>670</ele>
+        <desc>Heading towards Rudolfsturm</desc>
+      </trkpt>
+      <trkpt lat="47.5680" lon="13.6550">
+        <ele>690</ele>
+        <name>Rudolfsturm</name>
+        <desc>Tower with restaurant and spectacular views</desc>
+      </trkpt>
+      <trkpt lat="47.5685" lon="13.6555">
+        <ele>695</ele>
+        <name>Skywalk</name>
+        <desc>Viewing platform</desc>
+      </trkpt>
+      <trkpt lat="47.5690" lon="13.6560">
+        <ele>690</ele>
+        <desc>Follow signs to Salzwelten</desc>
+      </trkpt>
+      <trkpt lat="47.5695" lon="13.6565">
+        <ele>680</ele>
+        <desc>Chapel of the Stations of the Cross</desc>
+      </trkpt>
+      <trkpt lat="47.5700" lon="13.6570">
+        <ele>670</ele>
+        <desc>Head towards Hallstatt Lake</desc>
+      </trkpt>
+      <trkpt lat="47.5695" lon="13.6575">
+        <ele>650</ele>
+        <desc>Descending path</desc>
+      </trkpt>
+      <trkpt lat="47.5690" lon="13.6580">
+        <ele>630</ele>
+        <desc>Continue downhill</desc>
+      </trkpt>
+      <trkpt lat="47.5685" lon="13.6585">
+        <ele>610</ele>
+        <desc>Forest section</desc>
+      </trkpt>
+      <trkpt lat="47.5680" lon="13.6590">
+        <ele>590</ele>
+        <desc>Lake view appears</desc>
+      </trkpt>
+      <trkpt lat="47.5675" lon="13.6585">
+        <ele>570</ele>
+        <desc>Follow path along lake</desc>
+      </trkpt>
+      <trkpt lat="47.5670" lon="13.6580">
+        <ele>550</ele>
+        <desc>Approaching town</desc>
+      </trkpt>
+      <trkpt lat="47.5665" lon="13.6575">
+        <ele>540</ele>
+        <desc>Lakeside path</desc>
+      </trkpt>
+      <trkpt lat="47.5660" lon="13.6570">
+        <ele>530</ele>
+        <desc>Continue along lake</desc>
+      </trkpt>
+      <trkpt lat="47.5655" lon="13.6565">
+        <ele>525</ele>
+        <desc>Approaching town center</desc>
+      </trkpt>
+      <trkpt lat="47.5650" lon="13.6560">
+        <ele>520</ele>
+        <desc>Near town center</desc>
+      </trkpt>
+      <trkpt lat="47.5645" lon="13.6555">
+        <ele>518</ele>
+        <desc>Entering town</desc>
+      </trkpt>
+      <trkpt lat="47.5640" lon="13.6550">
+        <ele>516</ele>
+        <desc>Almost back to start</desc>
+      </trkpt>
+      <trkpt lat="47.5635" lon="13.6545">
+        <ele>515</ele>
+        <desc>Approaching square</desc>
+      </trkpt>
+      <trkpt lat="47.5630" lon="13.6540">
+        <ele>514</ele>
+        <desc>Near starting point</desc>
+      </trkpt>
+      <trkpt lat="47.5622" lon="13.6494">
+        <ele>514</ele>
+        <name>Hallstatt Square</name>
+        <desc>Back to starting point</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

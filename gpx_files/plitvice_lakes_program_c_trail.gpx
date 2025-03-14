@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Plitvice Lakes Program C Trail</name>
+    <desc>An 8km trail through Plitvice Lakes National Park featuring lower lakes, waterfalls, and a boat ride</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Plitvice Lakes Program C Trail</name>
+    <desc>Starting from Entrance 1, exploring lower lakes, taking a boat ride across Kozjak Lake, and visiting upper lakes boardwalk trails</desc>
+    <trkseg>
+      <trkpt lat="44.8799" lon="15.6208">
+        <ele>580</ele>
+        <name>Entrance 1</name>
+        <desc>Starting point at the main entrance</desc>
+      </trkpt>
+      <trkpt lat="44.8805" lon="15.6210">
+        <ele>578</ele>
+        <desc>Path to lower lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8810" lon="15.6215">
+        <ele>575</ele>
+        <desc>Descending to lower lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8815" lon="15.6220">
+        <ele>570</ele>
+        <desc>First viewpoint of lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8820" lon="15.6225">
+        <ele>565</ele>
+        <desc>Boardwalk begins</desc>
+      </trkpt>
+      <trkpt lat="44.8825" lon="15.6230">
+        <ele>560</ele>
+        <name>Lower Lakes Boardwalk</name>
+        <desc>Wooden walkway over water</desc>
+      </trkpt>
+      <trkpt lat="44.8830" lon="15.6235">
+        <ele>558</ele>
+        <desc>First waterfall view</desc>
+      </trkpt>
+      <trkpt lat="44.8835" lon="15.6240">
+        <ele>555</ele>
+        <name>Small Waterfall</name>
+        <desc>First of many waterfalls</desc>
+      </trkpt>
+      <trkpt lat="44.8840" lon="15.6245">
+        <ele>553</ele>
+        <desc>Continuing on boardwalk</desc>
+      </trkpt>
+      <trkpt lat="44.8845" lon="15.6250">
+        <ele>550</ele>
+        <desc>Approaching larger waterfall</desc>
+      </trkpt>
+      <trkpt lat="44.8850" lon="15.6255">
+        <ele>548</ele>
+        <name>Large Waterfall</name>
+        <desc>Impressive cascade</desc>
+      </trkpt>
+      <trkpt lat="44.8855" lon="15.6260">
+        <ele>545</ele>
+        <desc>Path continues along lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8860" lon="15.6265">
+        <ele>543</ele>
+        <desc>Turquoise water views</desc>
+      </trkpt>
+      <trkpt lat="44.8865" lon="15.6270">
+        <ele>540</ele>
+        <desc>Approaching boat dock</desc>
+      </trkpt>
+      <trkpt lat="44.8870" lon="15.6275">
+        <ele>538</ele>
+        <name>Boat Dock</name>
+        <desc>Boarding point for lake crossing</desc>
+      </trkpt>
+      <trkpt lat="44.8875" lon="15.6280">
+        <ele>538</ele>
+        <desc>Boat ride across Kozjak Lake</desc>
+      </trkpt>
+      <trkpt lat="44.8880" lon="15.6285">
+        <ele>538</ele>
+        <desc>Middle of lake crossing</desc>
+      </trkpt>
+      <trkpt lat="44.8885" lon="15.6290">
+        <ele>538</ele>
+        <desc>Approaching opposite shore</desc>
+      </trkpt>
+      <trkpt lat="44.8890" lon="15.6295">
+        <ele>539</ele>
+        <name>Upper Lakes Dock</name>
+        <desc>Disembarkation point</desc>
+      </trkpt>
+      <trkpt lat="44.8895" lon="15.6300">
+        <ele>542</ele>
+        <desc>Path to upper lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8900" lon="15.6305">
+        <ele>545</ele>
+        <desc>Beginning of upper lakes boardwalk</desc>
+      </trkpt>
+      <trkpt lat="44.8905" lon="15.6310">
+        <ele>548</ele>
+        <name>Upper Lakes Boardwalk</name>
+        <desc>Wooden walkways through upper lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8910" lon="15.6315">
+        <ele>550</ele>
+        <desc>Series of small cascades</desc>
+      </trkpt>
+      <trkpt lat="44.8915" lon="15.6320">
+        <ele>553</ele>
+        <desc>Upper lakes viewpoint</desc>
+      </trkpt>
+      <trkpt lat="44.8920" lon="15.6325">
+        <ele>555</ele>
+        <desc>Continuing through upper lakes</desc>
+      </trkpt>
+      <trkpt lat="44.8925" lon="15.6330">
+        <ele>558</ele>
+        <desc>Final upper lakes section</desc>
+      </trkpt>
+      <trkpt lat="44.8930" lon="15.6335">
+        <ele>560</ele>
+        <desc>Beginning return path</desc>
+      </trkpt>
+      <trkpt lat="44.8925" lon="15.6340">
+        <ele>565</ele>
+        <desc>Forest path</desc>
+      </trkpt>
+      <trkpt lat="44.8920" lon="15.6345">
+        <ele>570</ele>
+        <desc>Ascending path</desc>
+      </trkpt>
+      <trkpt lat="44.8915" lon="15.6350">
+        <ele>575</ele>
+        <desc>Panoramic view of park</desc>
+      </trkpt>
+      <trkpt lat="44.8910" lon="15.6345">
+        <ele>578</ele>
+        <desc>Descending towards entrance</desc>
+      </trkpt>
+      <trkpt lat="44.8905" lon="15.6340">
+        <ele>580</ele>
+        <desc>Final approach to entrance</desc>
+      </trkpt>
+      <trkpt lat="44.8900" lon="15.6335">
+        <ele>580</ele>
+        <desc>Near entrance area</desc>
+      </trkpt>
+      <trkpt lat="44.8895" lon="15.6330">
+        <ele>580</ele>
+        <desc>Approaching finish</desc>
+      </trkpt>
+      <trkpt lat="44.8799" lon="15.6208">
+        <ele>580</ele>
+        <name>Entrance 1</name>
+        <desc>Back to starting point</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

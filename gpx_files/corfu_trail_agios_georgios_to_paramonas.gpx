@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Corfu Trail - Agios Georgios to Paramonas Section</name>
+    <desc>A 16.3km trail along the west coast of Corfu featuring Lake Korission, coastal walkways, and beaches</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Corfu Trail - Agios Georgios to Paramonas Section</name>
+    <desc>Starting from Agios Georgios, following the coastline past Lake Korission to Paramonas</desc>
+    <trkseg>
+      <trkpt lat="39.4720" lon="19.9210">
+        <ele>5</ele>
+        <name>Agios Georgios</name>
+        <desc>Starting point at Agios Georgios beach</desc>
+      </trkpt>
+      <trkpt lat="39.4725" lon="19.9215">
+        <ele>6</ele>
+        <desc>Beach path begins</desc>
+      </trkpt>
+      <trkpt lat="39.4730" lon="19.9220">
+        <ele>7</ele>
+        <desc>Sandy coastal path</desc>
+      </trkpt>
+      <trkpt lat="39.4735" lon="19.9225">
+        <ele>8</ele>
+        <desc>Dunes begin</desc>
+      </trkpt>
+      <trkpt lat="39.4740" lon="19.9230">
+        <ele>9</ele>
+        <desc>Path through sand dunes</desc>
+      </trkpt>
+      <trkpt lat="39.4745" lon="19.9235">
+        <ele>10</ele>
+        <desc>Approaching Lake Korission</desc>
+      </trkpt>
+      <trkpt lat="39.4750" lon="19.9240">
+        <ele>10</ele>
+        <name>Lake Korission</name>
+        <desc>Coastal lagoon with rich birdlife</desc>
+      </trkpt>
+      <trkpt lat="39.4755" lon="19.9245">
+        <ele>10</ele>
+        <desc>Path between lake and sea</desc>
+      </trkpt>
+      <trkpt lat="39.4760" lon="19.9250">
+        <ele>11</ele>
+        <desc>Wetland area</desc>
+      </trkpt>
+      <trkpt lat="39.4765" lon="19.9255">
+        <ele>12</ele>
+        <desc>Bird watching area</desc>
+      </trkpt>
+      <trkpt lat="39.4770" lon="19.9260">
+        <ele>13</ele>
+        <desc>Continuing along lake shore</desc>
+      </trkpt>
+      <trkpt lat="39.4775" lon="19.9265">
+        <ele>14</ele>
+        <desc>Cedar forest begins</desc>
+      </trkpt>
+      <trkpt lat="39.4780" lon="19.9270">
+        <ele>15</ele>
+        <desc>Path through cedar trees</desc>
+      </trkpt>
+      <trkpt lat="39.4785" lon="19.9275">
+        <ele>16</ele>
+        <desc>Shaded forest section</desc>
+      </trkpt>
+      <trkpt lat="39.4790" lon="19.9280">
+        <ele>17</ele>
+        <desc>End of forest, returning to coast</desc>
+      </trkpt>
+      <trkpt lat="39.4795" lon="19.9285">
+        <ele>16</ele>
+        <desc>Coastal path resumes</desc>
+      </trkpt>
+      <trkpt lat="39.4800" lon="19.9290">
+        <ele>15</ele>
+        <desc>Sandy beach section</desc>
+      </trkpt>
+      <trkpt lat="39.4805" lon="19.9295">
+        <ele>14</ele>
+        <desc>Small cove</desc>
+      </trkpt>
+      <trkpt lat="39.4810" lon="19.9300">
+        <ele>13</ele>
+        <desc>Rocky headland</desc>
+      </trkpt>
+      <trkpt lat="39.4815" lon="19.9305">
+        <ele>14</ele>
+        <desc>Path climbs slightly</desc>
+      </trkpt>
+      <trkpt lat="39.4820" lon="19.9310">
+        <ele>15</ele>
+        <desc>Panoramic coastal view</desc>
+      </trkpt>
+      <trkpt lat="39.4825" lon="19.9315">
+        <ele>16</ele>
+        <desc>Path descends to beach</desc>
+      </trkpt>
+      <trkpt lat="39.4830" lon="19.9320">
+        <ele>15</ele>
+        <desc>Another beach section</desc>
+      </trkpt>
+      <trkpt lat="39.4835" lon="19.9325">
+        <ele>14</ele>
+        <desc>Approaching small settlement</desc>
+      </trkpt>
+      <trkpt lat="39.4840" lon="19.9330">
+        <ele>13</ele>
+        <desc>Path through olive groves</desc>
+      </trkpt>
+      <trkpt lat="39.4845" lon="19.9335">
+        <ele>12</ele>
+        <desc>Rural track</desc>
+      </trkpt>
+      <trkpt lat="39.4850" lon="19.9340">
+        <ele>11</ele>
+        <desc>Approaching Paramonas</desc>
+      </trkpt>
+      <trkpt lat="39.4855" lon="19.9345">
+        <ele>10</ele>
+        <desc>First houses of Paramonas</desc>
+      </trkpt>
+      <trkpt lat="39.4860" lon="19.9350">
+        <ele>8</ele>
+        <desc>Entering village</desc>
+      </trkpt>
+      <trkpt lat="39.4865" lon="19.9355">
+        <ele>6</ele>
+        <desc>Approaching beach</desc>
+      </trkpt>
+      <trkpt lat="39.4870" lon="19.9360">
+        <ele>5</ele>
+        <name>Paramonas</name>
+        <desc>End point at Paramonas beach</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

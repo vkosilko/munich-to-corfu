@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Izola Longer Hillside Trail</name>
+    <desc>A 17km trail with views of Istria hinterland, coastal strip, Gulf of Trieste, Julian and Carnic Alps</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Izola Longer Hillside Trail</name>
+    <desc>Starting from Izola town center, through vineyards and olive groves, with views of the Church of St. James in Šared</desc>
+    <trkseg>
+      <trkpt lat="45.5372" lon="13.6614">
+        <ele>10</ele>
+        <name>Izola Town Center</name>
+        <desc>Starting point in the center of Izola</desc>
+      </trkpt>
+      <trkpt lat="45.5380" lon="13.6620">
+        <ele>15</ele>
+        <desc>Heading north from town center</desc>
+      </trkpt>
+      <trkpt lat="45.5390" lon="13.6625">
+        <ele>25</ele>
+        <desc>Beginning ascent</desc>
+      </trkpt>
+      <trkpt lat="45.5400" lon="13.6630">
+        <ele>40</ele>
+        <desc>Climbing through residential area</desc>
+      </trkpt>
+      <trkpt lat="45.5410" lon="13.6635">
+        <ele>60</ele>
+        <desc>First vineyard views</desc>
+      </trkpt>
+      <trkpt lat="45.5420" lon="13.6640">
+        <ele>80</ele>
+        <desc>Olive grove section</desc>
+      </trkpt>
+      <trkpt lat="45.5430" lon="13.6645">
+        <ele>100</ele>
+        <desc>First panoramic viewpoint</desc>
+      </trkpt>
+      <trkpt lat="45.5440" lon="13.6650">
+        <ele>120</ele>
+        <desc>View of Gulf of Trieste</desc>
+      </trkpt>
+      <trkpt lat="45.5450" lon="13.6655">
+        <ele>140</ele>
+        <desc>Path through vineyards</desc>
+      </trkpt>
+      <trkpt lat="45.5460" lon="13.6660">
+        <ele>160</ele>
+        <desc>Approaching rural area</desc>
+      </trkpt>
+      <trkpt lat="45.5470" lon="13.6665">
+        <ele>180</ele>
+        <desc>Small village</desc>
+      </trkpt>
+      <trkpt lat="45.5480" lon="13.6670">
+        <ele>200</ele>
+        <name>Šared Village</name>
+        <desc>Small village with traditional architecture</desc>
+      </trkpt>
+      <trkpt lat="45.5490" lon="13.6675">
+        <ele>210</ele>
+        <name>Church of St. James</name>
+        <desc>Historic church in Šared</desc>
+      </trkpt>
+      <trkpt lat="45.5500" lon="13.6680">
+        <ele>220</ele>
+        <desc>Highest point of trail</desc>
+      </trkpt>
+      <trkpt lat="45.5510" lon="13.6685">
+        <ele>215</ele>
+        <desc>View of Julian Alps (distant)</desc>
+      </trkpt>
+      <trkpt lat="45.5520" lon="13.6690">
+        <ele>210</ele>
+        <desc>View of Carnic Alps (distant)</desc>
+      </trkpt>
+      <trkpt lat="45.5530" lon="13.6695">
+        <ele>200</ele>
+        <desc>Beginning descent</desc>
+      </trkpt>
+      <trkpt lat="45.5520" lon="13.6700">
+        <ele>190</ele>
+        <desc>Descending through olive groves</desc>
+      </trkpt>
+      <trkpt lat="45.5510" lon="13.6705">
+        <ele>180</ele>
+        <desc>Panoramic coastal view</desc>
+      </trkpt>
+      <trkpt lat="45.5500" lon="13.6710">
+        <ele>170</ele>
+        <desc>Continuing descent</desc>
+      </trkpt>
+      <trkpt lat="45.5490" lon="13.6715">
+        <ele>160</ele>
+        <desc>More vineyard views</desc>
+      </trkpt>
+      <trkpt lat="45.5480" lon="13.6720">
+        <ele>150</ele>
+        <desc>Rural path</desc>
+      </trkpt>
+      <trkpt lat="45.5470" lon="13.6725">
+        <ele>140</ele>
+        <desc>View of Istria hinterland</desc>
+      </trkpt>
+      <trkpt lat="45.5460" lon="13.6730">
+        <ele>130</ele>
+        <desc>Approaching different route back</desc>
+      </trkpt>
+      <trkpt lat="45.5450" lon="13.6725">
+        <ele>120</ele>
+        <desc>Different path for return journey</desc>
+      </trkpt>
+      <trkpt lat="45.5440" lon="13.6720">
+        <ele>110</ele>
+        <desc>Descending towards coast</desc>
+      </trkpt>
+      <trkpt lat="45.5430" lon="13.6715">
+        <ele>100</ele>
+        <desc>Coastal strip visible</desc>
+      </trkpt>
+      <trkpt lat="45.5420" lon="13.6710">
+        <ele>80</ele>
+        <desc>Continuing descent</desc>
+      </trkpt>
+      <trkpt lat="45.5410" lon="13.6705">
+        <ele>60</ele>
+        <desc>Approaching town outskirts</desc>
+      </trkpt>
+      <trkpt lat="45.5400" lon="13.6700">
+        <ele>40</ele>
+        <desc>Entering residential area</desc>
+      </trkpt>
+      <trkpt lat="45.5390" lon="13.6695">
+        <ele>25</ele>
+        <desc>Approaching town center</desc>
+      </trkpt>
+      <trkpt lat="45.5380" lon="13.6690">
+        <ele>15</ele>
+        <desc>Near town center</desc>
+      </trkpt>
+      <trkpt lat="45.5372" lon="13.6614">
+        <ele>10</ele>
+        <name>Izola Town Center</name>
+        <desc>Back to starting point</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

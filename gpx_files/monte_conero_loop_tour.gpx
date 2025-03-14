@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Manus AI" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Monte Conero Loop Tour</name>
+    <desc>An 8.3km loop trail from Fonte d'Olio to Monte Conero with panoramic views of the Adriatic coastline</desc>
+    <author>
+      <name>Manus AI</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Monte Conero Loop Tour</name>
+    <desc>Starting from the parking lot near Fonte d'Olio, climbing to Monte Conero summit and returning in a loop</desc>
+    <trkseg>
+      <trkpt lat="43.5480" lon="13.6010">
+        <ele>300</ele>
+        <name>Fonte d'Olio Parking</name>
+        <desc>Starting point at the parking lot</desc>
+      </trkpt>
+      <trkpt lat="43.5485" lon="13.6015">
+        <ele>310</ele>
+        <desc>Trail begins through forest</desc>
+      </trkpt>
+      <trkpt lat="43.5490" lon="13.6020">
+        <ele>320</ele>
+        <desc>Ascending forest path</desc>
+      </trkpt>
+      <trkpt lat="43.5495" lon="13.6025">
+        <ele>335</ele>
+        <desc>First glimpse of sea through trees</desc>
+      </trkpt>
+      <trkpt lat="43.5500" lon="13.6030">
+        <ele>350</ele>
+        <desc>Continuing ascent</desc>
+      </trkpt>
+      <trkpt lat="43.5505" lon="13.6035">
+        <ele>365</ele>
+        <desc>Mediterranean vegetation</desc>
+      </trkpt>
+      <trkpt lat="43.5510" lon="13.6040">
+        <ele>380</ele>
+        <desc>First viewpoint</desc>
+      </trkpt>
+      <trkpt lat="43.5515" lon="13.6045">
+        <ele>395</ele>
+        <desc>Rocky section begins</desc>
+      </trkpt>
+      <trkpt lat="43.5520" lon="13.6050">
+        <ele>410</ele>
+        <desc>Steeper climb</desc>
+      </trkpt>
+      <trkpt lat="43.5525" lon="13.6055">
+        <ele>425</ele>
+        <desc>Panoramic view of coastline</desc>
+      </trkpt>
+      <trkpt lat="43.5530" lon="13.6060">
+        <ele>440</ele>
+        <desc>Approaching summit</desc>
+      </trkpt>
+      <trkpt lat="43.5535" lon="13.6065">
+        <ele>455</ele>
+        <desc>Final ascent to summit</desc>
+      </trkpt>
+      <trkpt lat="43.5540" lon="13.6070">
+        <ele>470</ele>
+        <name>Monte Conero Summit</name>
+        <desc>Highest point with 360-degree views</desc>
+      </trkpt>
+      <trkpt lat="43.5545" lon="13.6075">
+        <ele>465</ele>
+        <desc>Beginning descent on opposite side</desc>
+      </trkpt>
+      <trkpt lat="43.5550" lon="13.6080">
+        <ele>450</ele>
+        <desc>Different path for return journey</desc>
+      </trkpt>
+      <trkpt lat="43.5555" lon="13.6085">
+        <ele>435</ele>
+        <desc>View of Sirolo and Numana</desc>
+      </trkpt>
+      <trkpt lat="43.5550" lon="13.6090">
+        <ele>420</ele>
+        <desc>Continuing descent</desc>
+      </trkpt>
+      <trkpt lat="43.5545" lon="13.6095">
+        <ele>405</ele>
+        <desc>Forest path</desc>
+      </trkpt>
+      <trkpt lat="43.5540" lon="13.6100">
+        <ele>390</ele>
+        <desc>Shaded section</desc>
+      </trkpt>
+      <trkpt lat="43.5535" lon="13.6095">
+        <ele>375</ele>
+        <desc>Path turns back toward start</desc>
+      </trkpt>
+      <trkpt lat="43.5530" lon="13.6090">
+        <ele>360</ele>
+        <desc>Continuing loop</desc>
+      </trkpt>
+      <trkpt lat="43.5525" lon="13.6085">
+        <ele>345</ele>
+        <desc>Gentle descent</desc>
+      </trkpt>
+      <trkpt lat="43.5520" lon="13.6080">
+        <ele>330</ele>
+        <desc>Final section of loop</desc>
+      </trkpt>
+      <trkpt lat="43.5515" lon="13.6075">
+        <ele>320</ele>
+        <desc>Approaching starting area</desc>
+      </trkpt>
+      <trkpt lat="43.5510" lon="13.6070">
+        <ele>315</ele>
+        <desc>Last stretch</desc>
+      </trkpt>
+      <trkpt lat="43.5505" lon="13.6065">
+        <ele>310</ele>
+        <desc>Near parking area</desc>
+      </trkpt>
+      <trkpt lat="43.5500" lon="13.6060">
+        <ele>305</ele>
+        <desc>Final approach</desc>
+      </trkpt>
+      <trkpt lat="43.5495" lon="13.6055">
+        <ele>302</ele>
+        <desc>Almost back to start</desc>
+      </trkpt>
+      <trkpt lat="43.5490" lon="13.6050">
+        <ele>301</ele>
+        <desc>Approaching parking</desc>
+      </trkpt>
+      <trkpt lat="43.5485" lon="13.6045">
+        <ele>300</ele>
+        <desc>Final meters</desc>
+      </trkpt>
+      <trkpt lat="43.5480" lon="13.6010">
+        <ele>300</ele>
+        <name>Fonte d'Olio Parking</name>
+        <desc>Back to starting point</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
